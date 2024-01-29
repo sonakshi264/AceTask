@@ -1,0 +1,22 @@
+.lastsecctioncontainer{
+    /* border-style: solid; */
+    display: flex;
+    flex-direction: row;
+}
+.lastsubsection{
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* border-style: solid; */
+    width: 700px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 40px;
+}
+.lastsubsection1{
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* border-style: solid; */
+    width: 700px;
+    margin-top: 30px;
+
+}

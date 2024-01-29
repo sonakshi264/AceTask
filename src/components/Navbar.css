@@ -1,0 +1,13 @@
+.navbarclass{
+    display: flex;
+    flex-direction: row;
+    width: 1400px;
+    /* margin: auto; */
+    justify-content: space-between;
+    align-items: center;
+    /* border-style: solid; */
+    height: 100px;
+}
+.icon{
+    margin-right: 25px;
+}
